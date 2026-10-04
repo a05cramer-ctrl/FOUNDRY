@@ -1,1 +1,1 @@
-window.FOUNDRY_CFG={NAME:"FOUNDRY",TICKER:"FOUNDRY",CA:"",CHAIN:"solana",PAD:"pump.fun",PAIR:"",X:"",BUY:"",CHART:""};
+window.FOUNDRY_CFG={NAME:"FOUNDRY",TICKER:"FOUNDRY",CA:"Fy6g6sk4EyCXckt5AkgDyuFj1a2vJ7DEogCqKfYZpump",CHAIN:"solana",PAD:"pump.fun",PAIR:"",X:"https://x.com/foundryagents",BUY:"https://pump.fun/coin/Fy6g6sk4EyCXckt5AkgDyuFj1a2vJ7DEogCqKfYZpump",CHART:"https://gmgn.ai/sol/token/Fy6g6sk4EyCXckt5AkgDyuFj1a2vJ7DEogCqKfYZpump"};
